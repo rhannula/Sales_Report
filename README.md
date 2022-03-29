@@ -24,15 +24,15 @@ To create the necessary data model for doing analysis and fulfilling the busines
 
 *You can see all the SQL queries [HERE](https://github.com/rhannula/Sales_Report/tree/main/SQL_Queries)*
 
-![](https://github.com/rhannula/Sales_Report/blob/main/Images/Screenshot%202022-03-27%20225648.png) ![](https://github.com/rhannula/Sales_Report/blob/main/Images/Screenshot%202022-03-27%20225413.png)
-![](https://github.com/rhannula/Sales_Report/blob/main/Images/Screenshot%202022-03-27%20223507.png)
+![](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-27%20225648.png) ![](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-27%20225413.png)
+![](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-27%20223507.png)
 
 
 ## Data Model
 
 Below is a screenshot of the data model after cleansed and prepared tables were transited into Power BI. The schema blueprint used in this particular project is Star Schema which is the simplest style of data schema that consists of one or more facts tables referencing any number of dimension tables.
 
-![](https://github.com/rhannula/Sales_Report/blob/main/Images/Screenshot%202022-03-28%20211106.png)
+![](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-28%20211106.png)
 
 
 ## Sales Report Dashboard
@@ -41,4 +41,4 @@ The finished sales report dashboard is a 7 page dashboard with the first page co
 
 *You can see the finished dashboard [HERE](www.google.com) or by clicking the picture below.*
 
-![](https://github.com/rhannula/Sales_Report/blob/main/Images/Screenshot%202022-03-28%20211149.png)
+![](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-28%20211149.png)
