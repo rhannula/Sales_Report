@@ -39,6 +39,6 @@ Below is a screenshot of the data model after cleansed and prepared tables were 
 
 The finished sales report dashboard is a 7 page dashboard with the first page concentrating on the overview of the most generic KPIs that informs us about the state of the organisation and the rest of 6 pages concentrates of the combination of both different timeline perspectives and macros, such as KPIs versus target amount and shipping overview.
 
-*You can see the finished dashboard [HERE](www.google.com) or by clicking the picture below.*
+*You can see the finished dashboard [HERE](https://app.powerbi.com/groups/me/reports/e38d527a-d260-4079-b7fd-8f305c4e03c3/ReportSection?redirectedFromSignup=1) or by clicking the picture below.*
 
-![](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-28%20211149.png)
+[![](https://raw.githubusercontent.com/rhannula/Sales_Report/main/Images/Screenshot%202022-03-28%20211149.png)](https://app.powerbi.com/groups/me/reports/e38d527a-d260-4079-b7fd-8f305c4e03c3/ReportSection?redirectedFromSignup=1)
